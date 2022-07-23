@@ -1,0 +1,10 @@
+C:\Users\thecu\Desktop\Projetos\Calculadora Primeira Lei de Ohm\Calculadora Primeira Lei de Ohm\x64\Debug\Calculadora Primeira Lei de Ohm.vcxproj.AssemblyReference.cache
+C:\Users\thecu\Desktop\Projetos\Calculadora Primeira Lei de Ohm\Calculadora Primeira Lei de Ohm\x64\Debug\Calculadora Primeira Lei de Ohm.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\thecu\Desktop\Projetos\Calculadora Primeira Lei de Ohm\Calculadora Primeira Lei de Ohm\x64\Debug\CalculadoraPrimeiraLeideOhm.MainForm.resources
+C:\Users\thecu\Desktop\Projetos\Calculadora Primeira Lei de Ohm\Calculadora Primeira Lei de Ohm\x64\Debug\Calculadora Primeira Lei de Ohm.vcxproj.GenerateResource.cache
+C:\Users\thecu\Desktop\Projetos\Calculadora Primeira Lei de Ohm\Calculadora Primeira Lei de Ohm\x64\Debug\Calculadora Primeira Lei de Ohm.exe
+C:\Users\thecu\Desktop\Projetos\Calculadora Primeira Lei de Ohm\x64\Debug\Calculadora Primeira Lei de Ohm.vcxproj.AssemblyReference.cache
+C:\Users\thecu\Desktop\Projetos\Calculadora Primeira Lei de Ohm\x64\Debug\Calculadora Primeira Lei de Ohm.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\thecu\Desktop\Projetos\Calculadora Primeira Lei de Ohm\x64\Debug\CalculadoraPrimeiraLeideOhm.MainForm.resources
+C:\Users\thecu\Desktop\Projetos\Calculadora Primeira Lei de Ohm\x64\Debug\Calculadora Primeira Lei de Ohm.vcxproj.GenerateResource.cache
+C:\Users\thecu\Desktop\Projetos\Calculadora Primeira Lei de Ohm\x64\Debug\Calculadora Primeira Lei de Ohm.exe
