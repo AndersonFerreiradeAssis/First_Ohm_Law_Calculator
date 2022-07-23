@@ -1,1 +1,4 @@
-﻿  Calculadora Primeira Lei de Ohm.vcxproj -> C:\Users\thecu\Desktop\Projetos\Calculadora Primeira Lei de Ohm\x64\Debug\Calculadora Primeira Lei de Ohm.exe
+﻿  MainForm.cpp
+C:\Users\thecu\Desktop\Projetos\Calculadora Primeira Lei de Ohm\MainForm.cpp(6,1): warning C4829: Parâmetros possivelmente incorretos para função main. Considere o uso de 'int main(Platform::Array<Platform::String^>^ argv)'
+  MainForm.obj : Módulo MSIL encontrado; vínculo incremental está desabilitado para MSIL; executando link completo
+  Calculadora Primeira Lei de Ohm.vcxproj -> C:\Users\thecu\Desktop\Projetos\Calculadora Primeira Lei de Ohm\x64\Debug\Calculadora Primeira Lei de Ohm.exe

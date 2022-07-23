@@ -227,8 +227,19 @@ private: System::Void button1_Click(System::Object^ sender, System::EventArgs^ e
 	double Corrente = 0.0;
 	double Resistencia = 0.0;
 	
-	
 
+	if (textBox1->Text->Length != 0 && textBox2->Text->Length == 0 && textBox3->Text->Length == 0) {
+
+		textBox4->Text = "Digite pelo menos dois valores";
+	}
+	if (textBox1->Text->Length == 0 && textBox2->Text->Length != 0 && textBox3->Text->Length == 0) {
+
+		textBox4->Text = "Digite pelo menos dois valores";
+	}
+	if (textBox1->Text->Length == 0 && textBox2->Text->Length == 0 && textBox3->Text->Length != 0) {
+
+		textBox4->Text = "Digite pelo menos dois valores";
+	}
 	if (textBox1->Text->Length == 0 && textBox2->Text->Length == 0 && textBox3->Text->Length == 0) {
 
 		textBox4->Text = "Digite pelo menos dois valores";
